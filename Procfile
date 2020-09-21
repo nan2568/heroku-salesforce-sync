@@ -1,0 +1,1 @@
+web: java -jar target/heroku-salesforce-sync-1.0.jar
